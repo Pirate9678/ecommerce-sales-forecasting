@@ -1,0 +1,442 @@
+{
+  "rows": [
+    {
+      "series": "overall",
+      "window": "Oct 2024 (Diwali)",
+      "test_start": "2024-10-01",
+      "test_end": "2024-10-31",
+      "test_days": 31,
+      "model": "naive",
+      "mape": 35.04,
+      "rmse": 309162.09,
+      "mae": 270570.34,
+      "bias": -143886.72
+    },
+    {
+      "series": "overall",
+      "window": "Oct 2024 (Diwali)",
+      "test_start": "2024-10-01",
+      "test_end": "2024-10-31",
+      "test_days": 31,
+      "model": "seasonal_naive",
+      "mape": 33.09,
+      "rmse": 425065.93,
+      "mae": 323710.96,
+      "bias": 261712.46
+    },
+    {
+      "series": "overall",
+      "window": "Oct 2024 (Diwali)",
+      "test_start": "2024-10-01",
+      "test_end": "2024-10-31",
+      "test_days": 31,
+      "model": "holt_winters",
+      "mape": 26.2,
+      "rmse": 380269.47,
+      "mae": 274152.95,
+      "bias": 257885.41
+    },
+    {
+      "series": "overall",
+      "window": "Oct 2024 (Diwali)",
+      "test_start": "2024-10-01",
+      "test_end": "2024-10-31",
+      "test_days": 31,
+      "model": "sarima",
+      "mape": 25.59,
+      "rmse": 375018.98,
+      "mae": 269782.8,
+      "bias": 257483.76
+    },
+    {
+      "series": "overall",
+      "window": "Oct 2024 (Diwali)",
+      "test_start": "2024-10-01",
+      "test_end": "2024-10-31",
+      "test_days": 31,
+      "model": "cal_regression",
+      "mape": 20.82,
+      "rmse": 293978.73,
+      "mae": 202417.15,
+      "bias": 102121.76
+    },
+    {
+      "series": "overall",
+      "window": "Aug 2025",
+      "test_start": "2025-08-01",
+      "test_end": "2025-08-31",
+      "test_days": 31,
+      "model": "naive",
+      "mape": 23.81,
+      "rmse": 226426.2,
+      "mae": 154118.93,
+      "bias": 53177.51
+    },
+    {
+      "series": "overall",
+      "window": "Aug 2025",
+      "test_start": "2025-08-01",
+      "test_end": "2025-08-31",
+      "test_days": 31,
+      "model": "seasonal_naive",
+      "mape": 34.63,
+      "rmse": 309220.13,
+      "mae": 240457.24,
+      "bias": 175862.49
+    },
+    {
+      "series": "overall",
+      "window": "Aug 2025",
+      "test_start": "2025-08-01",
+      "test_end": "2025-08-31",
+      "test_days": 31,
+      "model": "holt_winters",
+      "mape": 27.38,
+      "rmse": 264625.25,
+      "mae": 196659.92,
+      "bias": 152178.06
+    },
+    {
+      "series": "overall",
+      "window": "Aug 2025",
+      "test_start": "2025-08-01",
+      "test_end": "2025-08-31",
+      "test_days": 31,
+      "model": "sarima",
+      "mape": 26.7,
+      "rmse": 267498.03,
+      "mae": 193843.21,
+      "bias": 151903.86
+    },
+    {
+      "series": "overall",
+      "window": "Aug 2025",
+      "test_start": "2025-08-01",
+      "test_end": "2025-08-31",
+      "test_days": 31,
+      "model": "cal_regression",
+      "mape": 24.92,
+      "rmse": 229223.25,
+      "mae": 158663.2,
+      "bias": 46056.86
+    },
+    {
+      "series": "overall",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "naive",
+      "mape": 41.04,
+      "rmse": 236225.55,
+      "mae": 186442.02,
+      "bias": -47347.9
+    },
+    {
+      "series": "overall",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "seasonal_naive",
+      "mape": 68.0,
+      "rmse": 426826.34,
+      "mae": 315438.3,
+      "bias": -133387.31
+    },
+    {
+      "series": "overall",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "holt_winters",
+      "mape": 40.89,
+      "rmse": 243303.04,
+      "mae": 193876.48,
+      "bias": -15256.3
+    },
+    {
+      "series": "overall",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "sarima",
+      "mape": 39.16,
+      "rmse": 231668.62,
+      "mae": 184959.63,
+      "bias": -18899.14
+    },
+    {
+      "series": "overall",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "cal_regression",
+      "mape": 40.44,
+      "rmse": 234790.19,
+      "mae": 187799.29,
+      "bias": -31836.04
+    },
+    {
+      "series": "electronics",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "naive",
+      "mape": 74.78,
+      "rmse": 208772.03,
+      "mae": 171396.64,
+      "bias": -98609.15
+    },
+    {
+      "series": "electronics",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "seasonal_naive",
+      "mape": 122.24,
+      "rmse": 423355.54,
+      "mae": 327809.93,
+      "bias": -130620.78
+    },
+    {
+      "series": "electronics",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "holt_winters",
+      "mape": 64.42,
+      "rmse": 199175.47,
+      "mae": 162300.69,
+      "bias": -26029.74
+    },
+    {
+      "series": "electronics",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "sarima",
+      "mape": 59.4,
+      "rmse": 184756.3,
+      "mae": 149908.85,
+      "bias": -20078.78
+    },
+    {
+      "series": "electronics",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "cal_regression",
+      "mape": 65.82,
+      "rmse": 193458.55,
+      "mae": 157437.83,
+      "bias": -52884.41
+    },
+    {
+      "series": "south",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "naive",
+      "mape": 73.47,
+      "rmse": 126299.94,
+      "mae": 92126.03,
+      "bias": 46293.84
+    },
+    {
+      "series": "south",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "seasonal_naive",
+      "mape": 88.41,
+      "rmse": 169032.29,
+      "mae": 124393.06,
+      "bias": 32897.01
+    },
+    {
+      "series": "south",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "holt_winters",
+      "mape": 91.72,
+      "rmse": 127157.96,
+      "mae": 97877.6,
+      "bias": 27389.88
+    },
+    {
+      "series": "south",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "sarima",
+      "mape": 83.61,
+      "rmse": 120459.81,
+      "mae": 92019.82,
+      "bias": 28549.51
+    },
+    {
+      "series": "south",
+      "window": "Sep 2025",
+      "test_start": "2025-09-01",
+      "test_end": "2025-09-30",
+      "test_days": 30,
+      "model": "cal_regression",
+      "mape": 110.88,
+      "rmse": 119648.93,
+      "mae": 101926.35,
+      "bias": -2031.48
+    }
+  ],
+  "summary": {
+    "electronics": {
+      "cal_regression": {
+        "mape_mean": 65.82,
+        "mape_by_window": {
+          "Sep 2025": 65.82
+        },
+        "rmse_mean": 193458.55,
+        "mae_mean": 157437.83
+      },
+      "holt_winters": {
+        "mape_mean": 64.42,
+        "mape_by_window": {
+          "Sep 2025": 64.42
+        },
+        "rmse_mean": 199175.47,
+        "mae_mean": 162300.69
+      },
+      "naive": {
+        "mape_mean": 74.78,
+        "mape_by_window": {
+          "Sep 2025": 74.78
+        },
+        "rmse_mean": 208772.03,
+        "mae_mean": 171396.64
+      },
+      "sarima": {
+        "mape_mean": 59.4,
+        "mape_by_window": {
+          "Sep 2025": 59.4
+        },
+        "rmse_mean": 184756.3,
+        "mae_mean": 149908.85
+      },
+      "seasonal_naive": {
+        "mape_mean": 122.24,
+        "mape_by_window": {
+          "Sep 2025": 122.24
+        },
+        "rmse_mean": 423355.54,
+        "mae_mean": 327809.93
+      }
+    },
+    "overall": {
+      "cal_regression": {
+        "mape_mean": 28.73,
+        "mape_by_window": {
+          "Oct 2024 (Diwali)": 20.82,
+          "Aug 2025": 24.92,
+          "Sep 2025": 40.44
+        },
+        "rmse_mean": 252664.06,
+        "mae_mean": 182959.88
+      },
+      "holt_winters": {
+        "mape_mean": 31.49,
+        "mape_by_window": {
+          "Oct 2024 (Diwali)": 26.2,
+          "Aug 2025": 27.38,
+          "Sep 2025": 40.89
+        },
+        "rmse_mean": 296065.92,
+        "mae_mean": 221563.12
+      },
+      "naive": {
+        "mape_mean": 33.3,
+        "mape_by_window": {
+          "Oct 2024 (Diwali)": 35.04,
+          "Aug 2025": 23.81,
+          "Sep 2025": 41.04
+        },
+        "rmse_mean": 257271.28,
+        "mae_mean": 203710.43
+      },
+      "sarima": {
+        "mape_mean": 30.48,
+        "mape_by_window": {
+          "Oct 2024 (Diwali)": 25.59,
+          "Aug 2025": 26.7,
+          "Sep 2025": 39.16
+        },
+        "rmse_mean": 291395.21,
+        "mae_mean": 216195.21
+      },
+      "seasonal_naive": {
+        "mape_mean": 45.24,
+        "mape_by_window": {
+          "Oct 2024 (Diwali)": 33.09,
+          "Aug 2025": 34.63,
+          "Sep 2025": 68.0
+        },
+        "rmse_mean": 387037.47,
+        "mae_mean": 293202.17
+      }
+    },
+    "south": {
+      "cal_regression": {
+        "mape_mean": 110.88,
+        "mape_by_window": {
+          "Sep 2025": 110.88
+        },
+        "rmse_mean": 119648.93,
+        "mae_mean": 101926.35
+      },
+      "holt_winters": {
+        "mape_mean": 91.72,
+        "mape_by_window": {
+          "Sep 2025": 91.72
+        },
+        "rmse_mean": 127157.96,
+        "mae_mean": 97877.6
+      },
+      "naive": {
+        "mape_mean": 73.47,
+        "mape_by_window": {
+          "Sep 2025": 73.47
+        },
+        "rmse_mean": 126299.94,
+        "mae_mean": 92126.03
+      },
+      "sarima": {
+        "mape_mean": 83.61,
+        "mape_by_window": {
+          "Sep 2025": 83.61
+        },
+        "rmse_mean": 120459.81,
+        "mae_mean": 92019.82
+      },
+      "seasonal_naive": {
+        "mape_mean": 88.41,
+        "mape_by_window": {
+          "Sep 2025": 88.41
+        },
+        "rmse_mean": 169032.29,
+        "mae_mean": 124393.06
+      }
+    }
+  }
+}
