@@ -1,0 +1,8 @@
+# Pinned versions actually used (project venv, Python 3.12).
+# Install with:  python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+pandas==3.1.1
+numpy==2.5.4
+matplotlib==3.11.2
+statsmodels==0.15.0
+scipy==1.18.1
+streamlit==1.67.0
